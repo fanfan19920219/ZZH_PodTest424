@@ -7,6 +7,9 @@
 //
 
 #import "ZZHViewController.h"
+#import "ZZH_RandomTools.h"
+
+
 
 @interface ZZHViewController ()
 
@@ -18,6 +21,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    ZZH_RandomTools *tool = [[ZZH_RandomTools alloc]init];
+    [tool RandomNum];
+    
+    
 }
 
 - (void)didReceiveMemoryWarning

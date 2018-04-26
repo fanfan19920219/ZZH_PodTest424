@@ -1,0 +1,22 @@
+{
+  "name": "ZZH_PodTest",
+  "version": "0.1.0",
+  "summary": "A short description of ZZH_PodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fanfan19920219/ZZH_PodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fanfan19920219": "406608969@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/fanfan19920219/ZZH_PodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZH_PodTest/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module ZZH_PodTest {
+  umbrella header "ZZH_PodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

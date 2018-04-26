@@ -1,0 +1,16 @@
+PODS:
+  - ZZH_PodTest (0.1.0)
+
+DEPENDENCIES:
+  - ZZH_PodTest (from `../`)
+
+EXTERNAL SOURCES:
+  ZZH_PodTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZZH_PodTest: ef177ba812d89831a6a7373acc40273eef3e823d
+
+PODFILE CHECKSUM: ffccd0e3a9b5257bd5c3f899440f27af9d0e4663
+
+COCOAPODS: 1.4.0

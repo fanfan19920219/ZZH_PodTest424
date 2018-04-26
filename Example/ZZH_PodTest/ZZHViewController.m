@@ -23,6 +23,7 @@
 	// Do any additional setup after loading the view, typically from a nib.
     ZZH_RandomTools *tool = [[ZZH_RandomTools alloc]init];
     [tool RandomNum];
+    NSLog(@"cao");
     
     
 }

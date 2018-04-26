@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZZH_PodTest'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of ZZH_PodTest.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/fanfan19920219/ZZH_PodTest'
+  s.homepage         = 'https://github.com/fanfan19920219/ZZH_PodTest424'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fanfan19920219' => '406608969@qq.com' }
-  s.source           = { :git => 'https://github.com/fanfan19920219/ZZH_PodTest.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/fanfan19920219/ZZH_PodTest424.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
